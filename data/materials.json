@@ -1,0 +1,26 @@
+[
+  {
+    "id": "material_doc_b7e8f9ff57120471_p27_table",
+    "kind": "shared_table",
+    "title": "2015年全国及部分省（市）一般公共预算收入与GDP相关关系",
+    "status": "available",
+    "available": true,
+    "asset_path": "assets/materials/doc_b7e8f9ff57120471_p27_table.png",
+    "source": {
+      "document_id": "doc_b7e8f9ff57120471",
+      "file": "2019中石油招聘笔试完整真题及答案解析（全国卷）.pdf",
+      "pages": [
+        27,
+        28
+      ]
+    },
+    "required_by": [
+      "q_000f37ef3907ef360e13",
+      "q_49d2f508316667c7d1c8",
+      "q_6b4152c839ef6ca5d382",
+      "q_79701830e9945edf3383",
+      "q_83af5c4a5bec89c3a50a"
+    ],
+    "resolution": "材料资产已恢复时保持五题 practice_enabled=true；若资产缺失则保持 false，恢复后重新运行本脚本。"
+  }
+]
