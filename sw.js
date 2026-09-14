@@ -1,4 +1,4 @@
-const SHELL_CACHE = "cnpc-shell-v2";
+const SHELL_CACHE = "cnpc-shell-v3";
 const LEGACY_CACHES = ["cnpc-offline-meta-v1", "cnpc-data-v3"];
 const BASE_PATH = new URL("./", self.location.href).pathname;
 
